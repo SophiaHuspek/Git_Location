@@ -1,16 +1,16 @@
 package com.example.git_location;
 
-public class Location {
+public class MyLocation {
 
     String longitude;
     String latitude;
     String date;
     String time;
 
-    public Location() {
+    public MyLocation() {
     }
 
-    public Location(String longitude, String latitude, String date, String time) {
+    public MyLocation(String longitude, String latitude, String date, String time) {
         this.longitude = longitude;
         this.latitude = latitude;
         this.date = date;

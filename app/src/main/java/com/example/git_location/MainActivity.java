@@ -5,9 +5,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import java.util.LinkedList;
+
 public class MainActivity extends AppCompatActivity {
 
-    LinkedList<>
+    LinkedList<MyLocation> locations = new LinkedList();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
