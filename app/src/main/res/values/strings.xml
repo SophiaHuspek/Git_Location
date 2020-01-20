@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Git_Location</string>
+    <string name="anzeigen">Anzeigen</string>
 </resources>
